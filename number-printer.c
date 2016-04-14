@@ -4,3 +4,6 @@ int  main(){
   printf("%d", number);
   return  0;
 }
+
+//wow no comments aswell
+//disappointing
