@@ -4,9 +4,3 @@ int  main(){
   printf("%d", number);
   return  0;
 }
-
-//wow no comments aswell
-//disappointing
-
-//UI.spinChair(left);
-//return 0;
